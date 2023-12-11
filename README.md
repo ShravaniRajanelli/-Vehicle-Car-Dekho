@@ -2,6 +2,16 @@
 Vehicle Car Dekho Analysis
 Welcome to the Vehicle Car Dekho Analysis project! In this project, we explore and analyze the Car Dekho dataset to gain insights into used car listings. The dataset provides information about various features of the cars, such as their model, year of manufacture, mileage, and more.
 
+## Source link:
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv
+
+## Problem Statement
+The goal of this project is to analyze the Car Dekho dataset and derive meaningful insights into the factors influencing the selling price of used cars. Potential analysis areas include:
+* Understanding the distribution of selling prices across different car models.
+* Analyzing the impact of various features such as fuel type and transmission on selling prices.
+* Predicting the selling price of used cars based on the provided features.
+
+  
 ## Dataset Overview
 The Vehicle Car Dekho dataset consists of the following key columns:
 
@@ -20,12 +30,6 @@ The Vehicle Car Dekho dataset consists of the following key columns:
 |max_power|max power of engine|
 |torque|torque of the car|
 |seats|number of seats in the car|
-
-## Problem Statement
-The goal of this project is to analyze the Car Dekho dataset and derive meaningful insights into the factors influencing the selling price of used cars. Potential analysis areas include:
-* Understanding the distribution of selling prices across different car models.
-* Analyzing the impact of various features such as fuel type and transmission on selling prices.
-* Predicting the selling price of used cars based on the provided features.
   
 ## Analysis Steps
 ### Data Cleaning:
@@ -44,9 +48,6 @@ Detailed analysis results, visualizations, and insights can be found in the Jupy
 ## Dependencies
 Python 3.x
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter.
-
-## Source link:
-https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv
 
 Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
 
